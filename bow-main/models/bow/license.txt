@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bow
+* source:	https://sketchfab.com/3d-models/bow-2bc34c70f34a46f3a74602d30c9aa247
+* author:	RookeyJerry (https://sketchfab.com/RookeyJerry)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bow" (https://sketchfab.com/3d-models/bow-2bc34c70f34a46f3a74602d30c9aa247) by RookeyJerry (https://sketchfab.com/RookeyJerry) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
